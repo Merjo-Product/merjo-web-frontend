@@ -25,10 +25,7 @@ export default function Footer(props) {
           <p class="mb-3 text-xs font-bold tracking-wider text-gray-400 uppercase font-poppins">
             Socials
           </p>
-          <a
-            class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins"
-            href="#"
-          >
+          <a class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins">
             Instagram
           </a>
           <a
@@ -37,10 +34,7 @@ export default function Footer(props) {
           >
             Email
           </a>
-          <a
-            class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins"
-            href="#"
-          >
+          <a class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins">
             Facebook
           </a>
           <a
