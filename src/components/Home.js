@@ -20,7 +20,7 @@ export function Home(props) {
         <div class="mb-4 space-x-0 md:space-x-2 md:mb-8">
           <a
             class="inline-flex items-center justify-center w-full mb-2 bg-blue-600 btn hover:bg-blue-700  btn-lg sm:w-auto sm:mb-0"
-            href="#"
+            href="#responsive-header"
           >
             <p class="text-white font-poppins">Try our bot</p>
             <svg
@@ -38,7 +38,7 @@ export function Home(props) {
           </a>
           <a
             class="inline-flex items-center justify-center w-full mb-2 bg-blue-600 btn hover:bg-blue-700  btn-lg sm:w-auto sm:mb-0"
-            href="#"
+            href="#responsive-header"
           >
             <p class="text-white font-poppins">Explore Products</p>
             <svg
