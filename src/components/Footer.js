@@ -27,7 +27,7 @@ export default function Footer(props) {
           </p>
           <a
             class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins"
-            href=""
+            href="#"
           >
             Instagram
           </a>
@@ -39,7 +39,7 @@ export default function Footer(props) {
           </a>
           <a
             class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins"
-            href=""
+            href="#"
           >
             Facebook
           </a>
@@ -64,7 +64,7 @@ export default function Footer(props) {
           </a>
           <a
             class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins"
-            href="#contact-us"
+            href="#features-page"
           >
             <Link to="features-page" smooth={true} offset={-70} duration={1200}>
               Features
@@ -72,7 +72,7 @@ export default function Footer(props) {
           </a>
           <a
             class="flex mb-3 text-sm font-semibold text-gray-800 transition md:mb-2 hover:text-blue-600 font-poppins"
-            href="#faq-page"
+            href="#pricing-page"
           >
             <Link to="pricing-page" smooth={true} offset={-70} duration={1200}>
               Pricing
